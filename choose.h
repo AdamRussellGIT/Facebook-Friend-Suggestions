@@ -1,0 +1,1 @@
+int choose(int numOfUsers);

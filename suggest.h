@@ -1,0 +1,1 @@
+void suggest(int choice, char users[][80], char friendsUser1[][80], char friendsUser2[][80], char friendsUser3[][80], char friendsUser4[][80], char friendsUser5[][80], char friendsUser6[][80], char friendSuggestions[][80], int numFriendSuggestions[5], int numFriendsPerUser[6]);
